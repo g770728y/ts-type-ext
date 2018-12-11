@@ -1,0 +1,8 @@
+{
+  "short_name": "ts-type-ext",
+  "name": "ts-type-ext",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
